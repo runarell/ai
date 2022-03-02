@@ -1,0 +1,8 @@
+
+1. 
+Python Prgram : Split Numver, String and Symbols from a String 
+(Python Code jpg)(extra credit : 1-use def, 2- use class, 3-user re
+
+Python 프로그램: 문자열에서 숫자, 문자열 및 기호 분리
+(Python Code jpg)(추가 크레딧: 1-use def, 2- use class, 3-user re
+
